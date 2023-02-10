@@ -44,4 +44,6 @@ Common variables:
 
 My analysis of this data is available in the `analysis/` directory. The questions and methods I have chosen, as well as graphs (if any) are detailed in the cells. I will put forward the important qustions here:
 
+An important note: I am not a finanical expert nor am i well versed in buisness. I am simply looking at money in terms of transfers in an out for the sake of simplicity in this story. Reporting on that was outside the scope of this story. 
+
 ### Who 
