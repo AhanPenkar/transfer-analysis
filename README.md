@@ -40,6 +40,10 @@ Common variables:
 | `year` | year of transfer | text |
 | `season` | season of transfer (interpolated from `year`) | text |
 
+## Merging for Country and League of outgoing Club
+
+There was no data available for the outgoing clubs, so I merged the dataset with the information from FBRef.
+
 ## Analysis and interpretation
 
 My analysis of this data is available in the `analysis/` directory. The questions and methods I have chosen, as well as graphs (if any) are detailed in the cells. I will put forward the important qustions here:
