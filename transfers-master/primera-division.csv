@@ -1,0 +1,130 @@
+,club_name,player_name,Age,Position,Pos,Market value,club_involved_name,Fee,transfer_movement,fee_cleaned
+0,Real Madrid,Antonio BlancoA. Blanco,22,Defensive Midfield,DM,€3.50m,Cádiz CF,"End of loan Jan 11, 2023",In,
+0,Real Madrid,Antonio BlancoA. Blanco,22,Defensive Midfield,DM,€3.50m,Alavés,loan transfer,Out,
+0,FC Barcelona,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
+0,FC Barcelona,Memphis DepayM. Depay,28,Centre-Forward,CF,€20.00m,Atlético Madrid,€3.00m,Out,€3.00m
+1,FC Barcelona,Héctor BellerínH. Bellerín,27,Right-Back,RB,€15.00m,Sporting CP,€1.00m,Out,€1.00m
+2,FC Barcelona,Gerard PiquéG. Piqué,35,Centre-Back,CB,-,Retired,-,Out,
+0,Sevilla FC,Federico GattoniF. Gattoni,23,Centre-Back,CB,€4.50m,San Lorenzo,€1.40m,In,€1.40m
+1,Sevilla FC,Pape GueyeP. Gueye,24,Defensive Midfield,DM,€10.00m,Marseille,loan transfer,In,
+2,Sevilla FC,Bryan GilBryan Gil,21,Left Winger,LW,€12.00m,Spurs,loan transfer,In,
+3,Sevilla FC,Loïc BadéL. Badé,22,Centre-Back,CB,€10.00m,Rennes,loan transfer,In,
+4,Sevilla FC,Kike SalasK. Salas,20,Centre-Back,CB,€2.00m,Sevilla Atl.,-,In,
+5,Sevilla FC,Lucas OcamposL. Ocampos,28,Left Winger,LW,€18.00m,Ajax,"End of loan Jan 17, 2023",In,
+6,Sevilla FC,Ludwig AugustinssonL. Augustinsson,28,Left-Back,LB,€4.00m,Aston Villa,"End of loan Jan 29, 2023",In,
+0,Sevilla FC,Federico GattoniF. Gattoni,23,Centre-Back,CB,€4.50m,San Lorenzo,loan transfer,Out,
+1,Sevilla FC,Adnan JanuzajA. Januzaj,27,Right Winger,RW,€7.00m,Basaksehir,loan transfer,Out,
+2,Sevilla FC,Kike SalasK. Salas,20,Centre-Back,CB,€2.00m,CD Tenerife,loan transfer,Out,
+3,Sevilla FC,Ludwig AugustinssonL. Augustinsson,28,Left-Back,LB,€4.00m,RCD Mallorca,loan transfer,Out,
+4,Sevilla FC,Thomas DelaneyT. Delaney,31,Central Midfield,CM,€3.00m,TSG Hoffenheim,loan transfer,Out,
+5,Sevilla FC,José Ángel CarmonaJ. Carmona,20,Right-Back,RB,€5.00m,Elche CF,loan transfer,Out,
+6,Sevilla FC,IscoIsco,30,Attacking Midfield,AM,€9.00m,Without Club,-,Out,
+7,Sevilla FC,Kasper DolbergK. Dolberg,25,Centre-Forward,CF,€12.00m,OGC Nice,"End of loan Dec 31, 2022",Out,
+0,Atlético de Madrid,Memphis DepayM. Depay,28,Centre-Forward,CF,€20.00m,Barcelona,€3.00m,In,€3.00m
+1,Atlético de Madrid,Matt DohertyM. Doherty,31,Right-Back,RB,€12.00m,Spurs,free transfer,In,
+2,Atlético de Madrid,Pablo BarriosP. Barrios,19,Central Midfield,CM,€500k,Atl. Madrid B,-,In,
+3,Atlético de Madrid,Marcos PauloMarcos Paulo,21,Left Winger,LW,€5.00m,CD Mirandés,"End of loan Dec 31, 2022",In,
+0,Atlético de Madrid,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Chelsea,Loan fee: €11.00m,Out, €11.00m
+1,Atlético de Madrid,FelipeFelipe,33,Centre-Back,CB,€3.00m,Nottm Forest,€2.30m,Out,€2.30m
+2,Atlético de Madrid,Matheus CunhaM. Cunha,23,Centre-Forward,CF,€20.00m,Wolves,loan transfer,Out,
+3,Atlético de Madrid,Marcos PauloMarcos Paulo,21,Left Winger,LW,€5.00m,São Paulo,loan transfer,Out,
+0,Real Sociedad,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
+0,Real Sociedad,Jon KarrikaburuJ. Karrikaburu,20,Centre-Forward,CF,€5.00m,CD Leganés,loan transfer,Out,
+0,Real Betis Balompié,AbnerAbner,22,Left-Back,LB,€8.00m,Athletico-PR,€7.00m,In,€7.00m
+1,Real Betis Balompié,Ayoze PérezA. Pérez,29,Second Striker,SS,€6.00m,Leicester,loan transfer,In,
+2,Real Betis Balompié,Diego LainezD. Lainez,22,Right Winger,RW,€2.50m,SC Braga,"End of loan Jan 29, 2023",In,
+0,Real Betis Balompié,Álex MorenoÁ. Moreno,29,Left-Back,LB,€20.00m,Aston Villa,€13.50m,Out,€13.50m
+1,Real Betis Balompié,Víctor CamarasaV. Camarasa,28,Central Midfield,CM,€1.00m,Real Oviedo,free transfer,Out,
+2,Real Betis Balompié,Diego LainezD. Lainez,22,Right Winger,RW,€2.50m,Tigres UANL,loan transfer,Out,
+3,Real Betis Balompié,Loren MorónL. Morón,29,Centre-Forward,CF,€2.50m,UD Las Palmas,loan transfer,Out,
+0,Villarreal CF,Filip JörgensenF. Jörgensen,20,Goalkeeper,GK,€1.50m,Villarreal CF B,-,In,
+1,Villarreal CF,Álex MillánÁ. Millán,23,Centre-Forward,CF,€800k,Famalicão,"End of loan Jan 7, 2023",In,
+0,Villarreal CF,Gerónimo RulliG. Rulli,30,Goalkeeper,GK,€10.00m,Ajax,€8.00m,Out,€8.00m
+1,Villarreal CF,Arnaut DanjumaA. Danjuma,25,Left Winger,LW,€35.00m,Spurs,Loan fee: €3.00m,Out, €3.00m
+2,Villarreal CF,Manu MorlanesM. Morlanes,24,Central Midfield,CM,€4.00m,RCD Mallorca,loan transfer,Out,
+3,Villarreal CF,Álex MillánÁ. Millán,23,Centre-Forward,CF,€800k,Villarreal CF B,-,Out,
+0,Athletic Bilbao,Ander HerreraA. Herrera,33,Central Midfield,CM,€4.00m,Paris SG,free transfer,In,
+0,Athletic Bilbao,Asier VillalibreA. Villalibre,25,Centre-Forward,CF,€2.50m,Alavés,loan transfer,Out,
+1,Athletic Bilbao,Ander HerreraA. Herrera,33,Central Midfield,CM,€4.00m,Paris SG,"End of loan Jan 30, 2023",Out,
+0,Valencia CF,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
+0,Valencia CF,No departures,No departures,No departures,No departures,No departures,No departures,,Out,
+0,CA Osasuna,Javi MartínezJ. Martínez,23,Attacking Midfield,AM,€1.00m,Albacete,"End of loan Jan 30, 2023",In,
+0,CA Osasuna,Roberto TorresR. Torres,33,Attacking Midfield,AM,€2.00m,Foolad,free transfer,Out,
+1,CA Osasuna,Juan PérezJ. Pérez,26,Goalkeeper,GK,€600k,SD Huesca,free transfer,Out,
+2,CA Osasuna,Kike SaverioK. Saverio,23,Left Winger,LW,€200k,Dep. La Coruña,free transfer,Out,
+3,CA Osasuna,Javi MartínezJ. Martínez,23,Attacking Midfield,AM,€1.00m,SD Huesca,loan transfer,Out,
+0,Elche CF,Randy NtekaR. Nteka,25,Attacking Midfield,AM,€2.50m,Rayo Vallecano,Loan fee: €200k,In, €200k
+1,Elche CF,Lisandro MagallánL. Magallán,29,Centre-Back,CB,€2.50m,Ajax,free transfer,In,
+2,Elche CF,José Ángel CarmonaJ. Carmona,20,Right-Back,RB,€5.00m,Sevilla FC,loan transfer,In,
+3,Elche CF,Pape CheikhP. Cheikh,25,Central Midfield,CM,€1.50m,Without Club,-,In,
+4,Elche CF,Lautaro BlancoL. Blanco,23,Left-Back,LB,€4.50m,Rosario Central,"End of loan Dec 31, 2022",In,
+0,Elche CF,Javier PastoreJ. Pastore,33,Attacking Midfield,AM,€800k,Qatar SC,free transfer,Out,
+1,Elche CF,Federico FernándezF. Fernández,33,Centre-Back,CB,€1.00m,Al-Duhail SC,free transfer,Out,
+2,Elche CF,Roger MartíR. Martí,32,Centre-Forward,CF,€2.50m,Cádiz CF,loan transfer,Out,
+3,Elche CF,Domingos QuinaD. Quina,23,Central Midfield,CM,€1.80m,Watford,"End of loan Jan 30, 2023",Out,
+0,Celta de Vigo,Haris SeferovicH. Seferovic,30,Centre-Forward,CF,€6.00m,Benfica,loan transfer,In,
+1,Celta de Vigo,Diego AlvesD. Alves,37,Goalkeeper,GK,€300k,Without Club,-,In,
+2,Celta de Vigo,Alfon GonzálezA. González,23,Left Winger,LW,€300k,Racing,"End of loan Jan 30, 2023",In,
+0,Celta de Vigo,Denis SuárezD. Suárez,29,Attacking Midfield,AM,€5.00m,Espanyol,Loan fee: €200k,Out, €200k
+1,Celta de Vigo,Alfon GonzálezA. González,23,Left Winger,LW,€300k,Real Murcia,loan transfer,Out,
+0,RCD Espanyol Barcelona,César MontesC. Montes,25,Centre-Back,CB,€7.00m,Monterrey,€8.00m,In,€8.00m
+1,RCD Espanyol Barcelona,José GrageraJ. Gragera,22,Central Midfield,CM,€3.00m,Sporting Gijón,€2.80m,In,€2.80m
+2,RCD Espanyol Barcelona,Fernando PachecoF. Pacheco,30,Goalkeeper,GK,€3.00m,UD Almería,€2.20m,In,€2.20m
+3,RCD Espanyol Barcelona,Denis SuárezD. Suárez,29,Attacking Midfield,AM,€5.00m,Celta de Vigo,Loan fee: €200k,In, €200k
+4,RCD Espanyol Barcelona,Ronaël Pierre-GabrielR. Pierre-Gabriel,24,Right-Back,RB,€4.50m,1.FSV Mainz 05,loan transfer,In,
+5,RCD Espanyol Barcelona,Miguel LlambrichM. Llambrich,26,Right-Back,RB,€600k,Real Oviedo,"End of loan Jan 4, 2023",In,
+0,RCD Espanyol Barcelona,Miguel LlambrichM. Llambrich,26,Right-Back,RB,€600k,FC Cartagena,loan transfer,Out,
+1,RCD Espanyol Barcelona,Pol LozanoP. Lozano,23,Central Midfield,CM,€1.50m,Granada CF,loan transfer,Out,
+2,RCD Espanyol Barcelona,Benjamin LecomteB. Lecomte,31,Goalkeeper,GK,€4.00m,Monaco,"End of loan Jan 25, 2023",Out,
+0,Rayo Vallecano,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
+0,Rayo Vallecano,Randy NtekaR. Nteka,25,Attacking Midfield,AM,€2.50m,Elche CF,Loan fee: €200k,Out, €200k
+1,Rayo Vallecano,BebéBebé,32,Left Winger,LW,€800k,Real Zaragoza,loan transfer,Out,
+0,Getafe CF,Gonzalo VillarG. Villar,24,Central Midfield,CM,€4.50m,AS Roma,loan transfer,In,
+1,Getafe CF,Darío PovedaD. Poveda,25,Centre-Forward,CF,€600k,UD Ibiza,"End of loan Jan 18, 2023",In,
+0,Getafe CF,Darío PovedaD. Poveda,25,Centre-Forward,CF,€600k,FC Cartagena,loan transfer,Out,
+0,RCD Mallorca,Ludwig AugustinssonL. Augustinsson,28,Left-Back,LB,€4.00m,Sevilla FC,loan transfer,In,
+1,RCD Mallorca,Manu MorlanesM. Morlanes,24,Central Midfield,CM,€4.00m,Villarreal,loan transfer,In,
+2,RCD Mallorca,Dennis HadzikadunicD. Hadzikadunic,24,Centre-Back,CB,€3.50m,Rostov,loan transfer,In,
+3,RCD Mallorca,Álex AlegríaÁ. Alegría,30,Centre-Forward,CF,€200k,CF Fuenlabrada,"End of loan Jan 30, 2023",In,
+0,RCD Mallorca,Franco RussoF. Russo,28,Centre-Back,CB,€1.00m,Ludogorets,€900k,Out,€900k
+1,RCD Mallorca,Lago JúniorL. Júnior,32,Left Winger,LW,€900k,Málaga CF,free transfer,Out,
+2,RCD Mallorca,Javi LlabrésJ. Llabrés,20,Left Winger,LW,€300k,CD Mirandés,loan transfer,Out,
+3,RCD Mallorca,Braian CufréB. Cufré,26,Left-Back,LB,€1.20m,New York City,loan transfer,Out,
+4,RCD Mallorca,Álex AlegríaÁ. Alegría,30,Centre-Forward,CF,€200k,Without Club,-,Out,
+0,Cádiz CF,Chris RamosC. Ramos,26,Centre-Forward,CF,€1.00m,CD Lugo,€1.50m,In,€1.50m
+1,Cádiz CF,Youba DiarraY. Diarra,24,Central Midfield,CM,€1.00m,RB Salzburg,€1.10m,In,€1.10m
+2,Cádiz CF,Gonzalo EscalanteG. Escalante,29,Central Midfield,CM,€2.00m,Lazio,loan transfer,In,
+3,Cádiz CF,Roger MartíR. Martí,32,Centre-Forward,CF,€2.50m,Elche CF,loan transfer,In,
+4,Cádiz CF,Jorge MeréJ. Meré,25,Centre-Back,CB,€1.50m,América,loan transfer,In,
+5,Cádiz CF,Sergi GuardiolaS. Guardiola,31,Centre-Forward,CF,€2.50m,Real Valladolid,loan transfer,In,
+6,Cádiz CF,Raúl ParraR. Parra,23,Right-Back,RB,€300k,CD Mirandés,"End of loan Dec 31, 2022",In,
+0,Cádiz CF,Lucas PérezL. Pérez,34,Centre-Forward,CF,€2.00m,Dep. La Coruña,€1.00m,Out,€1.00m
+1,Cádiz CF,Tomás AlarcónT. Alarcón,23,Central Midfield,CM,€3.00m,Real Zaragoza,loan transfer,Out,
+2,Cádiz CF,Awer MabilA. Mabil,27,Left Winger,LW,€1.50m,Sparta Prague,loan transfer,Out,
+3,Cádiz CF,Álvaro GiménezÁ. Giménez,31,Centre-Forward,CF,€800k,Without Club,-,Out,
+4,Cádiz CF,Antonio BlancoA. Blanco,22,Defensive Midfield,DM,€3.50m,Real Madrid,"End of loan Jan 11, 2023",Out,
+0,UD Almería,Diego MariñoD. Mariño,32,Goalkeeper,GK,€800k,Sporting Gijón,€80k,In,€80k
+1,UD Almería,Luis SuárezL. Suárez,25,Centre-Forward,CF,€9.00m,Marseille,loan transfer,In,
+2,UD Almería,Javi RoblesJ. Robles,22,Central Midfield,CM,€100k,CF Fuenlabrada,"End of loan Jan 30, 2023",In,
+3,UD Almería,Arvin AppiahA. Appiah,21,Right Winger,RW,€600k,CD Tenerife,"End of loan Dec 31, 2022",In,
+0,UD Almería,Fernando PachecoF. Pacheco,30,Goalkeeper,GK,€3.00m,Espanyol,€2.20m,Out,€2.20m
+1,UD Almería,Juanjo NietoJ. Nieto,28,Right-Back,RB,€700k,SD Huesca,free transfer,Out,
+2,UD Almería,Javi RoblesJ. Robles,22,Central Midfield,CM,€100k,Pontevedra,free transfer,Out,
+3,UD Almería,Arvin AppiahA. Appiah,22,Right Winger,RW,€600k,Málaga CF,loan transfer,Out,
+4,UD Almería,Iván MartosI. Martos,25,Centre-Back,CB,€400k,FC Cartagena,loan transfer,Out,
+5,UD Almería,Gui GuedesG. Guedes,20,Central Midfield,CM,€1.50m,CD Lugo,loan transfer,Out,
+0,Real Valladolid CF,Selim AmallahS. Amallah,26,Attacking Midfield,AM,€6.50m,Standard Liège,€1.00m,In,€1.00m
+1,Real Valladolid CF,Darwin MachísD. Machís,29,Left Winger,LW,€4.00m,FC Juárez,free transfer,In,
+2,Real Valladolid CF,Cyle LarinC. Larin,27,Centre-Forward,CF,€6.00m,Club Brugge,loan transfer,In,
+3,Real Valladolid CF,Martin HonglaM. Hongla,24,Defensive Midfield,DM,€3.50m,Hellas Verona,loan transfer,In,
+0,Real Valladolid CF,Zouhair FeddalZ. Feddal,33,Centre-Back,CB,€1.80m,Alanyaspor,free transfer,Out,
+1,Real Valladolid CF,Juanjo NarváezJ. Narváez,27,Centre-Forward,CF,€1.20m,CD Leganés,loan transfer,Out,
+2,Real Valladolid CF,Sergi GuardiolaS. Guardiola,31,Centre-Forward,CF,€2.50m,Cádiz CF,loan transfer,Out,
+3,Real Valladolid CF,Shon WeissmanS. Weissman,26,Centre-Forward,CF,€5.00m,Granada CF,loan transfer,Out,
+4,Real Valladolid CF,Mickaël MalsaM. Malsa,27,Defensive Midfield,DM,€1.50m,Kasimpasa,loan transfer,Out,
+0,Girona FC,Viktor TsygankovV. Tsygankov,25,Right Winger,RW,€22.00m,Dynamo Kyiv,€5.00m,In,€5.00m
+1,Girona FC,Alexander CallensA. Callens,30,Centre-Back,CB,€2.00m,New York City,free transfer,In,
+0,Girona FC,Samu SaizSamu Saiz,32,Left Winger,LW,€900k,Sivasspor,free transfer,Out,
+1,Girona FC,Óscar UreñaÓ. Ureña,19,Right Winger,RW,€200k,FC Cartagena,loan transfer,Out,
+2,Girona FC,Ramón TerratsR. Terrats,22,Defensive Midfield,DM,€1.50m,Villarreal CF B,loan transfer,Out,
+3,Girona FC,Manu VallejoM. Vallejo,25,Left Winger,LW,€3.00m,Real Oviedo,loan transfer,Out,
